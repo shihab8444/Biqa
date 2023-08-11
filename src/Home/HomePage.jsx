@@ -101,8 +101,8 @@ export default function Modal() {
               <div className='first-row'>
                 <div className='companyLogo'>
                   <button className='tinder'>
-                    <img src='white.png' alt='' className='logo' />
-                    <img src='typo4.png' alt='' />
+                    <img src='wolf.png' alt='' className='logo' />
+                    <img src='Biqa.png' alt='' />
                   </button>
                 </div>{' '}
                 <div className='dropdown'>
@@ -136,8 +136,8 @@ export default function Modal() {
           <>
             <nav className='navbar'>
               <button className='tinder1'>
-                <img src='white.png' alt='' className='logo' />
-                <img src='typo4.png' alt='' />
+                <img src='wolf.png' alt='' className='logo' />
+                <img src='Biqa.png' alt='' />
               </button>
               <button className='menu-icon' onClick={toogleModal3}>
                 {/* icon from heroicons.com */}
@@ -338,8 +338,8 @@ export default function Modal() {
           <div className='modal-content2'>
             <div className='modal-text2'>
               <button className='tinder3'>
-                <img src='black.png' alt='' className='logo3' />
-                <img src='type4Black.png' alt='' className='logo4' />
+{/*                 <img src='black.png' alt='' className='logo3' />
+                <img src='type4Black.png' alt='' className='logo4' /> */}
               </button>
             </div>{' '}
             <div className='close-modal2'>
